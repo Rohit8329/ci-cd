@@ -8,7 +8,7 @@ $sudo apt-get install ansible     #check version
 
 
 For ssh connection we need public/private key  
-$mkdir keys 		#do scp and save in one directory
+$mkdir keys 		#take a pem key from localmachine
 
 
 Add hosts in ansible for passwordless ssh
